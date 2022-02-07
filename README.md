@@ -1,9 +1,9 @@
 <h1 align="center">Hello W.👋, I'm Killian</h1>
 <h3 align="center">I am a student at OpenClassRooms</h3>
 
-- 🔭 I’m currently working on [La-chouette-agence](https://killiadmin.github.io/La-chouette-agence/)
+- 🔭 I’m currently working on [So-pecoko](https://github.com/killiadmin/So-pecoko)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Backend/Javascript**
 
 - 📫 How to reach me **killian.filatre@outlook.fr**
 
